@@ -1,0 +1,418 @@
+[
+    {
+        "index": 0,
+        "name": "United States",
+        "public_4Y_inState": 20049.845,
+        "public_4Y_outState": 25657.308,
+        "private_4Y": 43139.295,
+        "public_2Y": 3242.85
+    },
+    {
+        "index": 1,
+        "name": "Alabama",
+        "public_4Y_inState": 19672.537,
+        "public_4Y_outState": 24939.325,
+        "private_4Y": 26163.946,
+        "public_2Y": 4402.66
+    },
+    {
+        "index": 2,
+        "name": "Alaska",
+        "public_4Y_inState": 18372.619,
+        "public_4Y_outState": 21283.982,
+        "private_4Y": 26886.925,
+        "public_2Y": "†"
+    },
+    {
+        "index": 3,
+        "name": "Arizona",
+        "public_4Y_inState": 22629.391,
+        "public_4Y_outState": 26067.427,
+        "private_4Y": 22938.734,
+        "public_2Y": 2151.75
+    },
+    {
+        "index": 4,
+        "name": "Arkansas",
+        "public_4Y_inState": 17479.211,
+        "public_4Y_outState": 20060.615,
+        "private_4Y": 30827.681,
+        "public_2Y": 3291.38
+    },
+    {
+        "index": 5,
+        "name": "California",
+        "public_4Y_inState": 22081.301,
+        "public_4Y_outState": 29172.831,
+        "private_4Y": 47410.054,
+        "public_2Y": 1268.28
+    },
+    {
+        "index": 7,
+        "name": "Colorado",
+        "public_4Y_inState": 21513.729,
+        "public_4Y_outState": 29846.092,
+        "private_4Y": 35152.225,
+        "public_2Y": 3637.78
+    },
+    {
+        "index": 8,
+        "name": "Connecticut",
+        "public_4Y_inState": 25182.296,
+        "public_4Y_outState": 33741.029,
+        "private_4Y": 54819.373,
+        "public_2Y": 4312.28
+    },
+    {
+        "index": 9,
+        "name": "Delaware",
+        "public_4Y_inState": 22370.672,
+        "public_4Y_outState": 29355.581,
+        "private_4Y": 26927.581,
+        "public_2Y": "†"
+    },
+    {
+        "index": 10,
+        "name": "District of Columbia",
+        "public_4Y_inState": "†",
+        "public_4Y_outState": 12092,
+        "private_4Y": 57610.517,
+        "public_2Y": "†"
+    },
+    {
+        "index": 11,
+        "name": "Florida",
+        "public_4Y_inState": 14896.274,
+        "public_4Y_outState": 18241.063,
+        "private_4Y": 37335.863,
+        "public_2Y": 2506
+    },
+    {
+        "index": 13,
+        "name": "Georgia",
+        "public_4Y_inState": 17705.262,
+        "public_4Y_outState": 21957.241,
+        "private_4Y": 40413.53,
+        "public_2Y": 2900.67
+    },
+    {
+        "index": 14,
+        "name": "Hawaii",
+        "public_4Y_inState": 21200.718,
+        "public_4Y_outState": 31019.495,
+        "private_4Y": 28857.845,
+        "public_2Y": 3080.2
+    },
+    {
+        "index": 15,
+        "name": "Idaho",
+        "public_4Y_inState": 15454.691,
+        "public_4Y_outState": 22601.024,
+        "private_4Y": 13488.112,
+        "public_2Y": 3282.37
+    },
+    {
+        "index": 16,
+        "name": "Illinois",
+        "public_4Y_inState": 25088.968,
+        "public_4Y_outState": 28617.761,
+        "private_4Y": 45045.503,
+        "public_2Y": 3891.27
+    },
+    {
+        "index": 17,
+        "name": "Indiana",
+        "public_4Y_inState": 19296.967,
+        "public_4Y_outState": 28804.778,
+        "private_4Y": 43763.797,
+        "public_2Y": 4255
+    },
+    {
+        "index": 19,
+        "name": "Iowa",
+        "public_4Y_inState": 18426.29,
+        "public_4Y_outState": 26213.548,
+        "private_4Y": 37380.157,
+        "public_2Y": 4922.82
+    },
+    {
+        "index": 20,
+        "name": "Kansas",
+        "public_4Y_inState": 17963.456,
+        "public_4Y_outState": 22614.535,
+        "private_4Y": 30239.532,
+        "public_2Y": 3382.01
+    },
+    {
+        "index": 21,
+        "name": "Kentucky",
+        "public_4Y_inState": 20744.685,
+        "public_4Y_outState": 24632.451,
+        "private_4Y": 35948.377,
+        "public_2Y": 4105.94
+    },
+    {
+        "index": 22,
+        "name": "Louisiana",
+        "public_4Y_inState": 18835.494,
+        "public_4Y_outState": 21631.871,
+        "private_4Y": 49452.087,
+        "public_2Y": 4092.5
+    },
+    {
+        "index": 23,
+        "name": "Maine",
+        "public_4Y_inState": 19499.857,
+        "public_4Y_outState": 26939.48,
+        "private_4Y": 49994.252,
+        "public_2Y": 3697.5
+    },
+    {
+        "index": 25,
+        "name": "Maryland",
+        "public_4Y_inState": 21177.37,
+        "public_4Y_outState": 24352.94,
+        "private_4Y": 55685.127,
+        "public_2Y": 4090.11
+    },
+    {
+        "index": 26,
+        "name": "Massachusetts",
+        "public_4Y_inState": 25229.365,
+        "public_4Y_outState": 29774.061,
+        "private_4Y": 59558.947,
+        "public_2Y": 4991.39
+    },
+    {
+        "index": 27,
+        "name": "Michigan",
+        "public_4Y_inState": 22664.874,
+        "public_4Y_outState": 37599.841,
+        "private_4Y": 36664.314,
+        "public_2Y": 3469.24
+    },
+    {
+        "index": 28,
+        "name": "Minnesota",
+        "public_4Y_inState": 20419.721,
+        "public_4Y_outState": 20736.247,
+        "private_4Y": 42715.902,
+        "public_2Y": 5381.05
+    },
+    {
+        "index": 29,
+        "name": "Mississippi",
+        "public_4Y_inState": 17718.402,
+        "public_4Y_outState": 19690.827,
+        "private_4Y": 25773.911,
+        "public_2Y": 3182.39
+    },
+    {
+        "index": 31,
+        "name": "Missouri",
+        "public_4Y_inState": 18106.068,
+        "public_4Y_outState": 19519.115,
+        "private_4Y": 34622.858,
+        "public_2Y": 3272.71
+    },
+    {
+        "index": 32,
+        "name": "Montana",
+        "public_4Y_inState": 15800.475,
+        "public_4Y_outState": 23678.43,
+        "private_4Y": 33739,
+        "public_2Y": 3630.88
+    },
+    {
+        "index": 33,
+        "name": "Nebraska",
+        "public_4Y_inState": 18448.79,
+        "public_4Y_outState": 20554.771,
+        "private_4Y": 34598.313,
+        "public_2Y": 3212.07
+    },
+    {
+        "index": 34,
+        "name": "Nevada",
+        "public_4Y_inState": 16810.274,
+        "public_4Y_outState": 21175.847,
+        "private_4Y": 36162.844,
+        "public_2Y": 3075
+    },
+    {
+        "index": 35,
+        "name": "New Hampshire",
+        "public_4Y_inState": 27569.748,
+        "public_4Y_outState": 28129.793,
+        "private_4Y": 47030.429,
+        "public_2Y": 7336.63
+    },
+    {
+        "index": 37,
+        "name": "New Jersey",
+        "public_4Y_inState": 26541.709,
+        "public_4Y_outState": 28649.209,
+        "private_4Y": 50321.163,
+        "public_2Y": 4535.8
+    },
+    {
+        "index": 38,
+        "name": "New Mexico",
+        "public_4Y_inState": 15802.892,
+        "public_4Y_outState": 17532.76,
+        "private_4Y": 33620.13,
+        "public_2Y": 1666.35
+    },
+    {
+        "index": 39,
+        "name": "New York",
+        "public_4Y_inState": 22343.39,
+        "public_4Y_outState": 21661.765,
+        "private_4Y": 53659.49,
+        "public_2Y": 5229.22
+    },
+    {
+        "index": 40,
+        "name": "North Carolina",
+        "public_4Y_inState": 17342.85,
+        "public_4Y_outState": 24274.275,
+        "private_4Y": 44050.059,
+        "public_2Y": 2498.52
+    },
+    {
+        "index": 41,
+        "name": "North Dakota",
+        "public_4Y_inState": 15997.91,
+        "public_4Y_outState": 19020.702,
+        "private_4Y": 22511.142,
+        "public_2Y": 4700.05
+    },
+    {
+        "index": 43,
+        "name": "Ohio",
+        "public_4Y_inState": 21674.171,
+        "public_4Y_outState": 24098.104,
+        "private_4Y": 42254.152,
+        "public_2Y": 3672.41
+    },
+    {
+        "index": 44,
+        "name": "Oklahoma",
+        "public_4Y_inState": 16263.442,
+        "public_4Y_outState": 20200.127,
+        "private_4Y": 35542.301,
+        "public_2Y": 3876.24
+    },
+    {
+        "index": 45,
+        "name": "Oregon",
+        "public_4Y_inState": 22709.795,
+        "public_4Y_outState": 30486.548,
+        "private_4Y": 50617.451,
+        "public_2Y": 4487.31
+    },
+    {
+        "index": 46,
+        "name": "Pennsylvania",
+        "public_4Y_inState": 25795.143,
+        "public_4Y_outState": 27129.472,
+        "private_4Y": 53239.241,
+        "public_2Y": 5173.49
+    },
+    {
+        "index": 47,
+        "name": "Rhode Island",
+        "public_4Y_inState": 24279.521,
+        "public_4Y_outState": 29012.976,
+        "private_4Y": 54876.793,
+        "public_2Y": 4564
+    },
+    {
+        "index": 49,
+        "name": "South Carolina",
+        "public_4Y_inState": 22131.916,
+        "public_4Y_outState": 30918.906,
+        "private_4Y": 34421.421,
+        "public_2Y": 4501.51
+    },
+    {
+        "index": 50,
+        "name": "South Dakota",
+        "public_4Y_inState": 16420.825,
+        "public_4Y_outState": 12060.074,
+        "private_4Y": 32156.845,
+        "public_2Y": 6026.02
+    },
+    {
+        "index": 51,
+        "name": "Tennessee",
+        "public_4Y_inState": 18950.707,
+        "public_4Y_outState": 25378.34,
+        "private_4Y": 37162.05,
+        "public_2Y": 4147.79
+    },
+    {
+        "index": 52,
+        "name": "Texas",
+        "public_4Y_inState": 18271.394,
+        "public_4Y_outState": 24936.915,
+        "private_4Y": 43865.995,
+        "public_2Y": 2209.46
+    },
+    {
+        "index": 53,
+        "name": "Utah",
+        "public_4Y_inState": 14174.17,
+        "public_4Y_outState": 20167.626,
+        "private_4Y": 15389.01,
+        "public_2Y": 3781
+    },
+    {
+        "index": 55,
+        "name": "Vermont",
+        "public_4Y_inState": 27781.881,
+        "public_4Y_outState": 38967.841,
+        "private_4Y": 56172.143,
+        "public_2Y": 6414
+    },
+    {
+        "index": 56,
+        "name": "Virginia",
+        "public_4Y_inState": 23426.934,
+        "public_4Y_outState": 33427.64,
+        "private_4Y": 33658.309,
+        "public_2Y": 5118.32
+    },
+    {
+        "index": 57,
+        "name": "Washington",
+        "public_4Y_inState": 18322.527,
+        "public_4Y_outState": 28263.194,
+        "private_4Y": 48518.085,
+        "public_2Y": 4077.78
+    },
+    {
+        "index": 58,
+        "name": "West Virginia",
+        "public_4Y_inState": 17803.035,
+        "public_4Y_outState": 21031.784,
+        "private_4Y": 21299.934,
+        "public_2Y": 4076.5
+    },
+    {
+        "index": 59,
+        "name": "Wisconsin",
+        "public_4Y_inState": 16543.924,
+        "public_4Y_outState": 23499.662,
+        "private_4Y": 43331.967,
+        "public_2Y": 4336.83
+    },
+    {
+        "index": 60,
+        "name": "Wyoming",
+        "public_4Y_inState": 14485.524,
+        "public_4Y_outState": 13731,
+        "private_4Y": "†",
+        "public_2Y": 3142.34
+    }
+]
